@@ -1,7 +1,3 @@
-## Thank you
-
-I take no credits for this wonderful theme. I'm glad someone took the time to build it. Thank you
-
 ## Credits
 
 This theme is mainly built with [Jekyll](https://jekyllrb.com/) ecosystem, [Bootstrap](https://getbootstrap.com/), [Font Awesome](https://fontawesome.com/) and some other wonderful tools (their copyright information can be found in the relevant files).
